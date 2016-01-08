@@ -1,4 +1,4 @@
-'use strict'; //Ê¹ÓÃES6Òª¼ÓÈëÍ·²¿ĞÅÏ¢
+'use strict'; //ä½¿ç”¨ES6è¦åŠ å…¥å¤´éƒ¨ä¿¡æ¯
 
 var http = require('http');
 var url = require('url');
